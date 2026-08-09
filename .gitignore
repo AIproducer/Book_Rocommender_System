@@ -1,0 +1,30 @@
+# Virtual environment
+.book_recommender/
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment
+.python-version
+
+# Temporary files
+*.tmp
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
